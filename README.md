@@ -1,6 +1,5 @@
-### 
-<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/O2PhyxtkFwCtUO6nen" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/PLCnext-code-we-can-O2PhyxtkFwCtUO6nen">via GIPHY</a></p>
-Hi there 👋
+
+<div id="header" align="center"><img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif"width="180"/></div>
 **Akash-Chourasia13/Akash-Chourasia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
